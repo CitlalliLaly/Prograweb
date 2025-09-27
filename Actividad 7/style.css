@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color:black;
+    font-size: 50px;
+    font-style:arial;
+    margin-left: 5%;
+    margin-right: 5%;
+ }
+ h2{
+    color:gray;
+    font-size:18px;
+    font-style: italic;
+    margin-left: 5%;
+    margin-right: 5%;
+ }
+ h3{
+    color:black;
+    font-size: small;
+    font-style: italic;
+    margin-left: 5%;
+    margin-right: 5%;
+ }
+ img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%; 
+    width:900px;
+ }
+ p{
+    text-align: justify,center;
+    font-style: arial;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 20px;
+ }

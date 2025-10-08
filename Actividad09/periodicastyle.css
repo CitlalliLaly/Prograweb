@@ -1,0 +1,139 @@
+body{
+    text-align: center;
+    font-style: normal;
+    text-size-adjust:12px;
+    font-family: italic,bold;
+}
+a:hover{
+    color:black;
+    text-decoration: overline;
+}
+h1{
+    text-align: center;
+    font-family:verdana;
+}
+.tablaP{
+    width:auto;
+    height:auto;
+    border:1px solid white;
+    background-color: wheat;
+    border-left: ghostwhite;
+}
+.noMetalesre{
+    width:20px;
+    height:20px;
+    padding:20px;
+    background-color: greenyellow;
+    border:1px solid white;
+    border-bottom:20px;
+    border-left: 20px;
+    display:inline-block;
+}
+.metalesA{
+    width:20px;
+    height:20px;
+    padding:20px;
+    border:1px solid white;
+    background-color: red;
+    border-bottom:20px;
+    border-left:20px;
+    display:inline-block;
+}
+.gasesN{
+    width:20px;
+    height:20px;
+    padding:20px;
+    border:1px solid white;
+    background-color:pink;
+    border-bottom:20px;
+    border-left:20px;
+    display:inline-block;
+}
+
+.metaloide{
+    width:20px;
+    height:20px;
+    padding:20px;
+    border:1px solid white;
+    background-color:#f1c40f;
+    border-bottom:20px;
+    border-left:20px;
+    display:inline-block;
+}
+
+.metalesAlca{
+    width:20px;
+    height:20px;
+    padding:20px;
+    border:1px solid white;
+    background-color:#f2a832;
+    border-bottom:20px;
+    border-left:20px;
+    display:inline-block;
+}
+.desco{
+    width:20px;
+    height:20px;
+    padding:20px;
+    border:1px solid white;
+    background-color:#b7b7b7;
+    border-bottom:20px;
+    border-left:20px;
+    float:none;
+    display:inline-block;
+}
+.actonoides{
+    width:20px;
+    height:20px;
+    padding:20px;
+    border:1px solid white;
+    background-color:#6bcbab;
+    border-bottom:20px;
+    border-left:20px;
+    display:inline-block;
+}
+.metalestrans{
+    width:20px;
+    height:20px;
+    padding:20px;
+    border:1px solid white;
+    background-color:#9cbcdb;
+    border-bottom:20px;
+    border-left:20px;
+    display:inline-block;
+}
+
+.metalespost{
+    width:20px;
+    height:20px;
+    padding:20px;
+    border:1px solid white;
+    background-color:#bb8fbb;
+    border-bottom:20px;
+    border-left:20px;
+    display:inline-block;
+}
+
+.latanidos{
+    width:20px;
+    height:20px;
+    padding:20px;
+    border:1px solid white;
+    background-color:#3593d1;
+    border-bottom:20px;
+    border-left:20px;
+    display:inline-block;
+}
+.espacio{
+    width:20px;
+    height:20px;
+    padding:20px; 
+    display:inline-block;
+}
+.fila {
+    display: block;
+    width: 100%;
+    margin-bottom: 4px;
+}
+
+    

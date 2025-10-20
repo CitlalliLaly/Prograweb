@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: poppins, sans-serif;
+    background-color: lightpink;
+}
+h1{
+    text-align: center;
+    color: darkblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button{
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(39, 39, 124);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+a {
+    text-decoration: none;
+    color: white;
+}

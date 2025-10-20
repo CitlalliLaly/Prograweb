@@ -1,0 +1,153 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+/*No te hagas bolas va al incio first we*/
+.header{
+    padding:20%;
+    border-bottom:1px solid #ccc;
+    background-color: #f1f1f1;
+    overflow: hidden;
+}
+.logo img{
+    width: 100px;
+    height: auto;
+    position: static;
+}
+.Busqueda{
+    width:93%;
+    margin: 20px;
+    margin-top: 0.5%;
+    text-align:right;
+    margin-right: 0%;
+    position:static;
+}
+
+/*Barritas y esas cosas*/
+nav{
+    background-color:#e57373;
+    overflow: hidden;
+    width: 90%;
+    margin: 0 auto;
+}
+nav a{
+    display: block;
+    color: #f71f1f;
+    padding: 15px 0px;
+    text-decoration: none;
+    font-size: 14px;
+    width: 100%;
+}
+nav a:hover{
+    background-color: #ef9a9a;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+/*Bloque noticias*/
+.bloque-noticias{
+    width: 20%;
+    height: fit-content;
+    margin-top: 20px;
+    float: left;
+    padding: 5px;  
+    background-color:gray;
+    border:1px dashed gray;
+    font-size: 12px;
+}
+.izquierda{
+    float: left;
+    padding: 10px;
+}
+/*Publicidad*/
+.Publicidad{
+    width: 20%;
+    float: left;
+    padding: 2%;
+    background-color: #f1f1f1;
+    text-align: left;
+    border: 1px dashed orange;
+}
+/*Central */
+.central{
+    width:80%;
+    float:center;
+    padding: 2%;
+    font-size: 14px;
+    text-align: justify;
+    float:center;
+}
+.noticiac{
+    margin-bottom: 20px;
+    width:80%;
+    float: center;
+    background-color: #f1f1f1;
+    border:1px dashed #777;
+}
+/* Contenedor para noticia y columna derecha */
+.noticia-row {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 20px;
+    align-items: flex-start;
+}
+.noticiac {
+    flex: 1 1 0;
+    gap:16px;
+    width: auto;
+    float: none;
+}
+.columna-derecha {
+    flex: 0 0 18%;
+    width: 18%;
+    float: none;
+}
+/* Columna derecha al lado de la noticia central */
+.columna-derecha {
+    width: 18%;
+    float: right;
+    background: #e0f7fa;
+    border: 2px solid #00b6c6;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+img{
+    margin-right:auto;
+    float: none;
+    width: 100px;
+    height: auto;
+}
+.noticiac h2{
+    color:orange;
+}
+.colum{
+    height: fit-content;
+    margin-top:-200px;
+    float: right;
+    padding: 5px;  
+    background-color:white;
+    border:1px solid rgb(45, 45, 155);
+    font-size: 12px;
+    width:20%;
+    text-align:right;
+    position:relative;
+}
+/*pie de pagina*/
+.footer{
+    background-color: #f1f1f1;
+    padding: 1%;
+    float: bottom;
+    text-align:bottom right;
+    font-size: 14px;
+    color: #777;
+    position: static;
+}
